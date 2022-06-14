@@ -1,0 +1,7 @@
+This is a GUI for hotel information system
+Developers
+Ajaya Khanal
+Natiz Bista
+Alisha Limbu
+Sanjita Saru Magar
+Puja Ojha
